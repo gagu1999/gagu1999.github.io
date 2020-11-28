@@ -1,0 +1,14 @@
+Choi Hyeong Jin:
+  name        : "최형진"
+  bio         : "18 전산과 바보"
+  avatar      : "/assets/images/20181218_213632_IMG_2604.JPG"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "gagu1999@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://gagu1999.github.io"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-Instagram-square"
+      url: "https://twitter.com/i.am.honey_bee"
