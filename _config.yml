@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "개발자가 되고 싶은 허니비"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "최형진, Choi Hyeong Jin"
+name                     : "최형진"
 description              : "초보개발자가 글쓰는 곳"
 url                      : "https://gagu1999.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author: Choi Hyeong Jin
-  name             : "최형진 Choi Hyeong Jin"
+  name             : "최형진"
   avatar           : "/assets/images/20181218_213632_IMG_2604.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "운동, 노는거 좋아함. 타투하고 싶은데 쫄보임"
+  bio              : "운동, 노는거 좋아함. 타투하고 싶은데 고민중"
   location         : "Korea"
   email            : "gagu1999@kaist.ac.kr"
   links:
