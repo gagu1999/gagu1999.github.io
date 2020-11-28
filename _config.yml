@@ -94,12 +94,12 @@ analytics:
 # Site Author
 author: Choi Hyeong Jin
   name             : "최형진 Choi Hyeong Jin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/20181218_213632_IMG_2604.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "운동, 노는거 좋아함. 타투하고 싶은데 쫄보임"
   location         : "Korea"
-  email            :
+  email            : "gagu1999@kaist.ac.kr"
   links:
-    - label: "gagu1999@kaist.ac.kr"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
